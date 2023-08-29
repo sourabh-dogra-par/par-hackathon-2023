@@ -1,0 +1,7 @@
+C:\Users\dogras\OneDrive - PAR Technology Corporation\Confidential\Personal\RnD\Orders_Generator\Orders_Generator\bin\Debug\Orders_Generator.exe.config
+C:\Users\dogras\OneDrive - PAR Technology Corporation\Confidential\Personal\RnD\Orders_Generator\Orders_Generator\bin\Debug\Orders_Generator.exe
+C:\Users\dogras\OneDrive - PAR Technology Corporation\Confidential\Personal\RnD\Orders_Generator\Orders_Generator\bin\Debug\Orders_Generator.pdb
+C:\Users\dogras\OneDrive - PAR Technology Corporation\Confidential\Personal\RnD\Orders_Generator\Orders_Generator\obj\Debug\Orders_Generator.csproj.AssemblyReference.cache
+C:\Users\dogras\OneDrive - PAR Technology Corporation\Confidential\Personal\RnD\Orders_Generator\Orders_Generator\obj\Debug\Orders_Generator.csproj.CoreCompileInputs.cache
+C:\Users\dogras\OneDrive - PAR Technology Corporation\Confidential\Personal\RnD\Orders_Generator\Orders_Generator\obj\Debug\Orders_Generator.exe
+C:\Users\dogras\OneDrive - PAR Technology Corporation\Confidential\Personal\RnD\Orders_Generator\Orders_Generator\obj\Debug\Orders_Generator.pdb
